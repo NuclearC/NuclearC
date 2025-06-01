@@ -18,3 +18,6 @@ Some other s#it not worth calling a project:
 Some old projects of mine that are kinda worth mentioning:
 - https://github.com/NuclearC/educational-project: Simple x86 interpreter written in C++. Can decode and run simplest ELF files.
 - https://github.com/NuclearC/websocket: Plain websocket implementation on top of [libuv](https://libuv.org/)
+
+Contacts:
+- Discord: @nuclearc
